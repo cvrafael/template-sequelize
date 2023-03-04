@@ -6,6 +6,6 @@ module.exports = {
   "host": "127.0.0.1",
   "define": {
     timestamp: true,
-    underscore: false
+    underscore: true
   }
 }
